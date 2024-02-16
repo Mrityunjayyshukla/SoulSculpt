@@ -1,0 +1,231 @@
+
+.css-18to3ni {
+    -webkit-font-smoothing: antialiased;
+    font-family: "Headspace Apercu", sans-serif;
+    text-rendering: optimizelegibility;
+    font-size: 1rem;
+    font-weight: 500;
+    letter-spacing: -0.01em;
+    line-height: 1.375em;
+    display: block;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+header {
+  background-color: #31b5ee;
+    color: #fff;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 0px;
+  }
+  
+  .header-content {
+    text-align: center;
+  }
+  
+  .button {
+    
+    font-size: 20px;
+    background-color: white;
+    color: rgb(53, 90, 225);
+    padding: 14px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0px;
+    cursor: pointer;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+ 
+  
+  .header-content {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+  }
+  .image-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  
+ 
+  
+ 
+  header {
+    background-color: #fff;
+    margin: 0px;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+  }
+  
+  nav ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   color: black;
+  }
+  
+  nav li {
+    margin: 0 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+  }
+  
+  nav a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  .login-signup {
+    display: flex;
+    align-items: center;
+  }
+  
+  .login-signup a {
+    color: black;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  .login-signup a:hover {
+    text-decoration: underline;
+  }
+  
+  .header-content, .logo {
+    color: white;
+  }
+  
+  .login-signup {
+    justify-content: flex-end;
+  }
+  .image-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .image-row {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+  }
+  
+  .image-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .image-row {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+  }
+  
+  first{
+    display: flex;
+    justify-content: space-around;
+    margin: 23px;
+}
+.left{
+    font-size: 1.8rem;
+    width: 20%;
+    margin: 60px;
+}
+.right img{
+   margin: 50px 0;
+    width: 65%;
+    position: relative;
+    left: 850px;
+    top: -400px;
+    border-radius: 3px;
+
+}
+
+.second{
+    width: 80vw;
+    margin: 35px;
+}
+
+
+
+.second{
+    display: flex;
+    justify-content: space-around;
+    margin: 23px;
+}
+.left img{
+  margin: 60px 0;
+  width: 98%;
+}
+.right{
+  font-size: 1.8rem;
+  width: 50%;
+}
+
+.third{
+  display: flex;
+  justify-content: space-around;
+  margin: 23px;
+}
+
+.left{
+  font-size: 1.8rem;
+  width: 50%;
+}
+
+
+.one img{
+  width: 30px;
+  position: relative;
+  top: 4px;
+  left: -15px;
+}
+.one{
+  text-align: center;
+  font-size: larger;
+}
+.two img{
+  width: 30px;
+  position: relative;
+  top: 4px;
+  left: -15px;
+}
+.two{
+  text-align: center;
+  font-size: larger;
+}
+.three img{
+  width: 30px;
+  position: relative;
+  top: 4px;
+  left: -15px;
+}
+.three{
+  text-align: center;
+  font-size: larger;
+}
+body{
+  background-color: rgb(249, 238, 224);
+}
